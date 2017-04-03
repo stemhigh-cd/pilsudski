@@ -6,7 +6,7 @@
   },
   "responses": {
     "__GAME_ENDING":"RESPONSES",
-    "win":"It was nice talking to you. I have decied not to declare war.",
+    "win":"It was nice talking to you. I have decided not to declare war.",
     "lose":"I cannot take this any longer. FEEL THE WRATH OF THE GERMAN EMPIRE!",
 
     "__TEMPERAMENT":"RESPONSES",
