@@ -6,20 +6,20 @@
   },
   "responses": {
     "__GAME_ENDING":"RESPONSES",
-    "win":"After careful consideration, a declaration of war may not be the best course of action for my empire. I do not wish to warmonger without good reason.",
-    "lose":"I have decided to declare war immediately. Your pathetic attempts will not stop me or my empire.",
+    "win":"It was nice talking to you. I have decied not to declare war.",
+    "lose":"I cannot take this any longer. FEEL THE WRATH OF THE GERMAN EMPIRE!",
 
     "__TEMPERAMENT":"RESPONSES",
-    "veryhappy":"Overall, Your points are incredibly valid...your ideas do hold water.",
-    "happy":"Overall, war may be avoided. It is a possibility.",
-    "neutral":"Overall, Continue.",
-    "angry":"Overall, Your words are not appreciated...",
-    "veryangry":"Overall, You will soon feel the wrath of my military.",
+    "veryhappy":" ",
+    "happy":" ",
+    "neutral":" ",
+    "angry":" ",
+    "veryangry":" ",
 
-    "good":"I think I am getting better, because of that statement.",
-    "bad":"That statement has swayed my mind towards war.",
+    "good":" ",
+    "bad":" ",
     "same":"",
 
-    "stale": "You've already asked me that, haven't you?. It won't change my mind, but..."
+    "stale": " "
   }
 }
